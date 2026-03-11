@@ -10,8 +10,23 @@ App Information
 * App Name: Windward Flood Check
 * Primary Language: English
 * Bundle ID & SKU: edu.hawaii.wrrc
-* Categories (primary/secondary): primary = Weather, secondary  = Utilities
-* Age Rating (questionnaire): 4+
+* Categories: Weather, Education
+* Age Rating:
+
+Users will only see the age rating that applies to their country or region on the App Store.
+
++-----------+----------------------------------+
+| Rating    | Country / Region                 |
++===========+==================================+
+| 15+       | Australia                        |
++-----------+----------------------------------+
+| 16+       | 172 countries or regions         |
++-----------+----------------------------------+
+| 15+       | Brazil                           |
++-----------+----------------------------------+
+| 15+       | Korea, Republic of               |
++-----------+----------------------------------+
+
 * Copyright: Copyright @ 2025 WRRC Shuler Lab. All rights reserved.
 * App Icon (1024x1024, no transparency)
 
